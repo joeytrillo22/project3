@@ -1,3 +1,16 @@
+# Name: Joseph Trillo
+# This is a task managment app to help organize to do items
+# you simply type in the tasks you want to complete and then click on the task once complete to delete it
+# HTML, CSS, ReactJS, Redux
+# Future improvment: adding more styling to form page & creating more functionality for tasks
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
