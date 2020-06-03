@@ -1,7 +1,7 @@
 body {
     align-items: center;
-    padding: 50px;
-    background-color: skyblue;
+    padding: 25px;
+    background-color: #66B9BF;
     font-family: sans-serif
 }
 
@@ -11,11 +11,15 @@ body {
 }
 
 .header {
-
+    font-family: "Goudy Old Style", Garamond, "Big Caslon";
     text-align: center;
-    padding-top: 50px;;
+    color: #373737;
+    padding-top: 25px;
 }
 
-.nav-item .nav-link {
-    color: black;
+
+
+.nav .nav-item .nav-link {
+    color: #373737;
+    align-content: center;
 }

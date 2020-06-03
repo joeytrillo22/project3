@@ -10,15 +10,15 @@
     font-size: 16px;
     margin: 10px;
     margin-right: 0px;
-    background-color: blue;
+    background-color: #373737;
     color: white;
-    border: 2px solid blue;
+    border: 2px solid #373737;
 
 }
 
 .TodoListMain .header button:hover {
-    background-color: skyblue;
-    border: 2px skyblue;
+    background-color: #EEAA7B;
+    border: 2px #EEAA7B;
     cursor: pointer;
 }
 
@@ -34,7 +34,7 @@
 }
 
 .TodoListMain .theList li:hover {
-    background-color: pink;
+    background-color: #EEAA7B;
     cursor: pointer;
 }
 
